@@ -1,2 +1,3 @@
-# gradle-java-hello-world
-a simple example of a java gradle poject
+# hello-world
+Using gradle to build a simple Java project.
+It is used mainly for playing with github hooks integrations
